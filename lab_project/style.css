@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(152, 129, 98);
+    margin: 0;
+}
+.head{
+    background-color: aqua;
+}
+footer{
+    background-color: rgb(15, 13, 13);
+    color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+
+/* new styles */
+
+   
+.paragraph{
+    margin-right: 0px;
+    display: block;
+    text-align: right;
+    padding-bottom: 0px;
+}
+
+.website-name{
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 0px;
+    display: inline-block;
+    padding-left: 0%;
+    width: 80%;
+
+}
+
+aside {
+    width: 100%;
+    max-width: 80px;
+    min-width: 100px;
+    float: right;
+}
+
+article {
+      max-width: 600px;
+      margin: 0 auto;
+ }
+
+   
+   
+
+
+
