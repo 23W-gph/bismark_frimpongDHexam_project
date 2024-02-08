@@ -1,0 +1,12 @@
+name: views
+title: views
+username: ahafolabs
+account: ahafolabs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11121902
+bundleId: 8229108
+url: https://ahafolabs.shinyapps.io/views/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
